@@ -1,0 +1,21 @@
+{
+  "name": "digital-document-verification",
+  "version": "1.0.0",
+  "description": "MERN Stack Digital Document Verification & QR Authentication Platform",
+  "scripts": {
+    "start": "node backend/src/server.js",
+    "server": "node backend/src/server.js",
+    "seed": "node backend/src/seed.js",
+    "client": "npm --prefix frontend run dev"
+  },
+  "keywords": [
+    "mern",
+    "document-verification",
+    "qr-code",
+    "sha-256",
+    "mongodb",
+    "react"
+  ],
+  "author": "",
+  "license": "ISC"
+}
